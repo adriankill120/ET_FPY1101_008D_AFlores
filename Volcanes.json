@@ -1,0 +1,23 @@
+{
+    "Villarrica": {"región": "Araucanía", "última_erupción": 2015},
+    "Llaima": {"región": "Araucanía", "última_erupción": 2009},
+    "Osorno": {"región": "Los Lagos", "última_erupción": 1869},
+    "Calbuco": {"región": "Los Lagos", "última_erupción": 2015},
+    "Chaitén": {"región": "Los Lagos", "última_erupción": 2008},
+    "Lonquimay": {"región": "Araucanía", "última_erupción": 1988},
+    "Antuco": {"región": "Biobío", "última_erupción": 1869},
+    "Nevados de Chillán": {"región": "Biobío", "última_erupción": 2020},
+    "Copahue": {"región": "Biobío", "última_erupción": 2016},
+    "Lanín": {"región": "Araucanía", "última_erupción": 1906},
+    "Puyehue-Cordón Caulle": {"región": "Los Ríos", "última_erupción": 2011},
+    "Corcovado": {"región": "Los Lagos", "última_erupción": 1834},
+    "Hudson": {"región": "Aysén", "última_erupción": 1991},
+    "Michinmahuida": {"región": "Aysén", "última_erupción": 1907},
+    "Macá": {"región": "Aysén", "última_erupción": 1834},
+    "Mentolat": {"región": "Aysén", "última_erupción": 1910},
+    "Melimoyu": {"región": "Aysén", "última_erupción": 2000},
+    "Quizapú": {"región": "Biobío", "última_erupción": 1932},
+    "San Pedro": {"región": "Los Lagos", "última_erupción": 1910},
+    "Tolhuaca": {"región": "Araucanía", "última_erupción": 1989},
+    "Viedma": {"región": "Aysén", "última_erupción": 1988}
+}
